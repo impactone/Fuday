@@ -1,0 +1,8 @@
+#ifndef __BSP_CAN_H
+#define __BSP_CAN_H
+
+#include "stm32f10x.h"
+
+void BSP_CAN_InitConfig(void);
+
+#endif
